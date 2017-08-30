@@ -1973,3 +1973,4 @@ Sit back and enjoy. "Netflix and skill" :P
 - [ ] The C Programming Language, 2ed.
 - [ ] Structure and Interpretation of Computer Programs
 - [ ] Discrete Mathematics for Computing
+- [ ] [Pro Git](https://git-scm.com/book/en/v2)
